@@ -1,0 +1,7 @@
+venv/
+*.log
+*.ipynb
+*.csv
+*.xlsx
+.git/
+node_modules/
